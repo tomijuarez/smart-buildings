@@ -1,0 +1,3938 @@
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "consumo" : 600242925 }
+{ "_id" : 5, "consumo" : 1766039647 }
+{ "_id" : 6, "consumo" : 39873351 }
+{ "_id" : 7, "consumo" : 439258432 }
+{ "_id" : 8, "consumo" : 5333544 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "consumo" : 600242925 }
+{ "_id" : 5, "consumo" : 1766039647 }
+{ "_id" : 6, "consumo" : 39873351 }
+{ "_id" : 7, "consumo" : 439258432 }
+{ "_id" : 8, "consumo" : 5333544 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+
+do you want to kill the current op(s) on the server? (y/n): 2017-08-09T21:37:01.013-0300 I CONTROL  [main] shutting down with code:0
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "consumo" : 600242925 }
+{ "_id" : 5, "consumo" : 1766039647 }
+{ "_id" : 6, "consumo" : 39873351 }
+{ "_id" : 7, "consumo" : 439258432 }
+{ "_id" : 8, "consumo" : 5333544 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "consumo" : 600242925 }
+{ "_id" : 5, "consumo" : 1766039647 }
+{ "_id" : 6, "consumo" : 39873351 }
+{ "_id" : 7, "consumo" : 439258432 }
+{ "_id" : 8, "consumo" : 5333544 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "consumo" : 600242925 }
+{ "_id" : 5, "consumo" : 1766039647 }
+{ "_id" : 6, "consumo" : 39873351 }
+{ "_id" : 7, "consumo" : 439258432 }
+{ "_id" : 8, "consumo" : 5333544 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "consumo" : 600242925 }
+{ "_id" : 5, "consumo" : 1766039647 }
+{ "_id" : 6, "consumo" : 39873351 }
+{ "_id" : 7, "consumo" : 439258432 }
+{ "_id" : 8, "consumo" : 5333544 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "consumo" : 600242925 }
+{ "_id" : 5, "consumo" : 1766039647 }
+{ "_id" : 6, "consumo" : 39873351 }
+{ "_id" : 7, "consumo" : 439258432 }
+{ "_id" : 8, "consumo" : 5333544 }
+bye
+MongoDB shell version v3.4.4
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "consumo" : 600242925 }
+{ "_id" : 5, "consumo" : 1766039647 }
+{ "_id" : 6, "consumo" : 39873351 }
+{ "_id" : 7, "consumo" : 439258432 }
+{ "_id" : 8, "consumo" : 5333544 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "consumo" : 600242925 }
+{ "_id" : 5, "consumo" : 1766039647 }
+{ "_id" : 6, "consumo" : 39873351 }
+{ "_id" : 7, "consumo" : 439258432 }
+{ "_id" : 8, "consumo" : 5333544 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "consumo" : 600242925 }
+{ "_id" : 5, "consumo" : 1766039647 }
+{ "_id" : 6, "consumo" : 39873351 }
+{ "_id" : 7, "consumo" : 439258432 }
+{ "_id" : 8, "consumo" : 5333544 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "consumo" : 600242925 }
+{ "_id" : 5, "consumo" : 1766039647 }
+{ "_id" : 6, "consumo" : 39873351 }
+{ "_id" : 7, "consumo" : 439258432 }
+{ "_id" : 8, "consumo" : 5333544 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "consumo" : 600242925 }
+{ "_id" : 5, "consumo" : 1766039647 }
+{ "_id" : 6, "consumo" : 39873351 }
+{ "_id" : 7, "consumo" : 439258432 }
+{ "_id" : 8, "consumo" : 5333544 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "consumo" : 600242925 }
+{ "_id" : 5, "consumo" : 1766039647 }
+{ "_id" : 6, "consumo" : 39873351 }
+{ "_id" : 7, "consumo" : 439258432 }
+{ "_id" : 8, "consumo" : 5333544 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "consumo" : 600242925 }
+{ "_id" : 5, "consumo" : 1766039647 }
+{ "_id" : 6, "consumo" : 39873351 }
+{ "_id" : 7, "consumo" : 439258432 }
+{ "_id" : 8, "consumo" : 5333544 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "consumo" : 600242925 }
+{ "_id" : 5, "consumo" : 1766039647 }
+{ "_id" : 6, "consumo" : 39873351 }
+{ "_id" : 7, "consumo" : 439258432 }
+{ "_id" : 8, "consumo" : 5333544 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "consumo" : 600242925 }
+{ "_id" : 5, "consumo" : 1766039647 }
+{ "_id" : 6, "consumo" : 39873351 }
+{ "_id" : 7, "consumo" : 439258432 }
+{ "_id" : 8, "consumo" : 5333544 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "consumo" : 600242925 }
+{ "_id" : 5, "consumo" : 1766039647 }
+{ "_id" : 6, "consumo" : 39873351 }
+{ "_id" : 7, "consumo" : 439258432 }
+{ "_id" : 8, "consumo" : 5333544 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "consumo" : 600242925 }
+{ "_id" : 5, "consumo" : 1766039647 }
+{ "_id" : 6, "consumo" : 39873351 }
+{ "_id" : 7, "consumo" : 439258432 }
+{ "_id" : 8, "consumo" : 5333544 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "consumo" : 600242925 }
+{ "_id" : 5, "consumo" : 1766039647 }
+{ "_id" : 6, "consumo" : 39873351 }
+{ "_id" : 7, "consumo" : 439258432 }
+{ "_id" : 8, "consumo" : 5333544 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "consumo" : 600242925 }
+{ "_id" : 5, "consumo" : 1766039647 }
+{ "_id" : 6, "consumo" : 39873351 }
+{ "_id" : 7, "consumo" : 439258432 }
+{ "_id" : 8, "consumo" : 5333544 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "consumo" : 600242925 }
+{ "_id" : 5, "consumo" : 1766039647 }
+{ "_id" : 6, "consumo" : 39873351 }
+{ "_id" : 7, "consumo" : 439258432 }
+{ "_id" : 8, "consumo" : 5333544 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "consumo" : 600242925 }
+{ "_id" : 5, "consumo" : 1766039647 }
+{ "_id" : 6, "consumo" : 39873351 }
+{ "_id" : 7, "consumo" : 439258432 }
+{ "_id" : 8, "consumo" : 5333544 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "consumo" : 600242925 }
+{ "_id" : 5, "consumo" : 1766039647 }
+{ "_id" : 6, "consumo" : 39873351 }
+{ "_id" : 7, "consumo" : 439258432 }
+{ "_id" : 8, "consumo" : 5333544 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "consumo" : 600242925 }
+{ "_id" : 5, "consumo" : 1766039647 }
+{ "_id" : 6, "consumo" : 39873351 }
+{ "_id" : 7, "consumo" : 439258432 }
+{ "_id" : 8, "consumo" : 5333544 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "consumo" : 600242925 }
+{ "_id" : 5, "consumo" : 1766039647 }
+{ "_id" : 6, "consumo" : 39873351 }
+{ "_id" : 7, "consumo" : 439258432 }
+{ "_id" : 8, "consumo" : 5333544 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "consumo" : 600242925 }
+{ "_id" : 5, "consumo" : 1766039647 }
+{ "_id" : 6, "consumo" : 39873351 }
+{ "_id" : 7, "consumo" : 439258432 }
+{ "_id" : 8, "consumo" : 5333544 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "consumo" : 600242925 }
+{ "_id" : 5, "consumo" : 1766039647 }
+{ "_id" : 6, "consumo" : 39873351 }
+{ "_id" : 7, "consumo" : 439258432 }
+{ "_id" : 8, "consumo" : 5333544 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "consumo" : 600242925 }
+{ "_id" : 5, "consumo" : 1766039647 }
+{ "_id" : 6, "consumo" : 39873351 }
+{ "_id" : 7, "consumo" : 439258432 }
+{ "_id" : 8, "consumo" : 5333544 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "consumo" : 600242925 }
+{ "_id" : 5, "consumo" : 1766039647 }
+{ "_id" : 6, "consumo" : 39873351 }
+{ "_id" : 7, "consumo" : 439258432 }
+{ "_id" : 8, "consumo" : 5333544 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "consumo" : 600242925 }
+{ "_id" : 5, "consumo" : 1766039647 }
+{ "_id" : 6, "consumo" : 39873351 }
+{ "_id" : 7, "consumo" : 439258432 }
+{ "_id" : 8, "consumo" : 5333544 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "consumo" : 600242925 }
+{ "_id" : 5, "consumo" : 1766039647 }
+{ "_id" : 6, "consumo" : 39873351 }
+{ "_id" : 7, "consumo" : 439258432 }
+{ "_id" : 8, "consumo" : 5333544 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "consumo" : 600242925 }
+{ "_id" : 5, "consumo" : 1766039647 }
+{ "_id" : 6, "consumo" : 39873351 }
+{ "_id" : 7, "consumo" : 439258432 }
+{ "_id" : 8, "consumo" : 5333544 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "consumo" : 600242925 }
+{ "_id" : 5, "consumo" : 1766039647 }
+{ "_id" : 6, "consumo" : 39873351 }
+{ "_id" : 7, "consumo" : 439258432 }
+{ "_id" : 8, "consumo" : 5333544 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "consumo" : 600242925 }
+{ "_id" : 5, "consumo" : 1766039647 }
+{ "_id" : 6, "consumo" : 39873351 }
+{ "_id" : 7, "consumo" : 439258432 }
+{ "_id" : 8, "consumo" : 5333544 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "consumo" : 600242925 }
+{ "_id" : 5, "consumo" : 1766039647 }
+{ "_id" : 6, "consumo" : 39873351 }
+{ "_id" : 7, "consumo" : 439258432 }
+{ "_id" : 8, "consumo" : 5333544 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "consumo" : 600242925 }
+{ "_id" : 5, "consumo" : 1766039647 }
+{ "_id" : 6, "consumo" : 39873351 }
+{ "_id" : 7, "consumo" : 439258432 }
+{ "_id" : 8, "consumo" : 5333544 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.2374046350225 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.988872596616 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990649473684211 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.93593135710654 }
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.05860379554371 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.2374046350225 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.988872596616 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990649473684211 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.93593135710654 }
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.05860379554371 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.2374046350225 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.988872596616 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990649473684211 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.93593135710654 }
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.05860379554371 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.2374046350225 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.988872596616 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990649473684211 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.93593135710654 }
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.05860379554371 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.2374046350225 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.988872596616 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990649473684211 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.93593135710654 }
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.05860379554371 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.2374046350225 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.988872596616 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990649473684211 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.93593135710654 }
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.05860379554371 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.2374046350225 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.988872596616 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990649473684211 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.93593135710654 }
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.05860379554371 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.2374046350225 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.988872596616 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990649473684211 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.93593135710654 }
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.05860379554371 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.2374046350225 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.988872596616 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990649473684211 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.93593135710654 }
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.05860379554371 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.2374046350225 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.988872596616 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990649473684211 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.93593135710654 }
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.05860379554371 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.2374046350225 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.988872596616 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990649473684211 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.93593135710654 }
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.05860379554371 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.2374046350225 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.988872596616 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990649473684211 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.93593135710654 }
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.05860379554371 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.2374046350225 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.988872596616 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990649473684211 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.93593135710654 }
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.05860379554371 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.2374046350225 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.988872596616 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990649473684211 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.93593135710654 }
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.05860379554371 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.2374046350225 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.988872596616 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990649473684211 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.93593135710654 }
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.05860379554371 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.2374046350225 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.988872596616 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990649473684211 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.93593135710654 }
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.05860379554371 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.2374046350225 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.988872596616 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990649473684211 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.93593135710654 }
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.05860379554371 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.2374046350225 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.988872596616 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990649473684211 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.93593135710654 }
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.05860379554371 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.2374046350225 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.988872596616 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990649473684211 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.93593135710654 }
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.05860379554371 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.2374046350225 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.988872596616 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990649473684211 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.93593135710654 }
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.05860379554371 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.2374046350225 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.988872596616 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990649473684211 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.93593135710654 }
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.05860379554371 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.2374046350225 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.988872596616 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990649473684211 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.93593135710654 }
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.05860379554371 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.2374046350225 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.988872596616 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990649473684211 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.93593135710654 }
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.05860379554371 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.2374046350225 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.988872596616 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990649473684211 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.93593135710654 }
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.05860379554371 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.2374046350225 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.988872596616 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990649473684211 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.93593135710654 }
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.05860379554371 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.2374046350225 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.988872596616 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990649473684211 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.93593135710654 }
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.05860379554371 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.2374046350225 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.988872596616 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990649473684211 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.93593135710654 }
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.05860379554371 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.2374046350225 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.988872596616 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990649473684211 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.93593135710654 }
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.05860379554371 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.2374046350225 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.988872596616 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990649473684211 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.93593135710654 }
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.05860379554371 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "consumo" : 50003836 }
+{ "_id" : 6, "consumo" : 13990993 }
+{ "_id" : 5, "consumo" : 599946778 }
+{ "_id" : 7, "consumo" : 399959204 }
+{ "_id" : 1, "consumo" : 600331370 }
+{ "_id" : 2, "consumo" : 600097267 }
+{ "_id" : 3, "consumo" : 599575073 }
+{ "_id" : 4, "consumo" : 599243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "cantidad" : 48 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+switched to db scada
+{ "_id" : 8, "minimo" : 0, "maximo" : 100, "promedio" : 50.003836 }
+{ "_id" : 6, "minimo" : -2, "maximo" : 30, "promedio" : 13.990993 }
+{ "_id" : 5, "minimo" : 0, "maximo" : 1200, "promedio" : 599.946778 }
+{ "_id" : 7, "minimo" : 0, "maximo" : 800, "promedio" : 399.959204 }
+{ "_id" : 1, "minimo" : 0, "maximo" : 1200, "promedio" : 600.33137 }
+{ "_id" : 2, "minimo" : 0, "maximo" : 1200, "promedio" : 600.097267 }
+{ "_id" : 3, "minimo" : 0, "maximo" : 1200, "promedio" : 599.575073 }
+{ "_id" : 4, "minimo" : 0, "maximo" : 1200, "promedio" : 599.243349 }
+bye
