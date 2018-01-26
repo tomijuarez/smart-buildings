@@ -8,18 +8,18 @@ basado en Debian o bien realizar las acciones manualmente.
 Todos los scripts se hicieron en base al bash de Linux. Si por algún motivo el
 docente no dispone de Ubuntu, los scripts no funcionarán y deberá importar manualmente
 los archivos en PostgreSQL y en MongoDB -ver último paso carga manual- y ejecutar todas
-las consultas manualmente. Recomiendo​ ​fuertemente​ ​correr​ ​el​ ​proyecto​ ​en​ ​Ubuntu​ ​ya
-que​ ​se​ ​construyó​ ​y​ ​testeó​ ​en​ ​este​ ​entorno.
+las consultas manualmente. Recomiendo fuertemente correr el proyecto en Ubuntu ya
+que se construyó y testeó en este entorno.
 
 # Instalación de Software
 Para ejecutar correctamente las consultas es necesario instalar los siguientes
 programas:
-● MongoDB (versión 3.4.4+): https://www.mongodb.com/download-center#community
-● PostgreSQL (versión 9.5.8+): https://www.postgresql.org/download/
-● Java (versión 1.8+): https://www.java.com/es/download/
+1. MongoDB (versión 3.4.4+): https://www.mongodb.com/download-center#community
+2. PostgreSQL (versión 9.5.8+): https://www.postgresql.org/download/
+3. Java (versión 1.8+): https://www.java.com/es/download/
 Además, se recomienda instalar los siguientes para correr las pruebas:
-● PgAdmin3: https://www.pgadmin.org/download/
-● RoboMongo: https://robomongo.org/download
+1. PgAdmin3: https://www.pgadmin.org/download/
+2. RoboMongo: https://robomongo.org/download
 ## Preparar PostgreSQL
 ### Paso 1: Posicionarse en la carpeta.
 Una vez descargado el .zip, descomprimirlo y dirigirse a dicha carpeta utilizando el
@@ -35,7 +35,7 @@ a. Dirigirse a la carpeta del proyecto contenedora de datos de PostgreSQL: tipea
 consola “cd postgresql”.
 b. Cambiar la contraseña de la base de datos en el script prepare.sh. Para ello, tipear
 “sudo gedit prepare.sh”. Se abrirá un editor de texto y se debe modificar la siguiente
-línea export​ ​PGPASSWORD=”PONER​ ​ACÁ​ ​LA​ ​CONTRASEÑA".​ Una vez puesta
+línea export PGPASSWORD=”PONER ACÁ LA CONTRASEÑA". Una vez puesta
 la contraseña se debe guardar el script.
 c. Dar permiso de ejecución al script “prepare.sh” tipeando en consola “sudo chmod +x
 prepare.sh”. En este paso el sistema solicitará la contraseña del usuario root.
@@ -44,7 +44,7 @@ d. Correr el script tipeando “./prepare.sh”.
 a. Dirigirse a la carpeta data tipeando “cd data”.
 b. Cambiar la contraseña de la base de datos en el script load_data.sh. Para ello, tipear
 “sudo gedit load_data.sh”. Se abrirá un editor de texto y se debe modificar la
-siguiente línea export​ ​PGPASSWORD=”PONER​ ​ACÁ​ ​LA​ ​CONTRASEÑA".​ Una
+siguiente línea export PGPASSWORD=”PONER ACÁ LA CONTRASEÑA". Una
 vez puesta la contraseña se debe guardar el script.
 c. Dar permisos al script load_data.sh tipeando “sudo chmod +x load_data.sh”.
 d. Correr el script tipeando “./load_data.sh” y esperar a que finalice la ejecución (~15
@@ -114,21 +114,21 @@ Este script existe en cada una de las carpetas de consulta y para ambos motores.
 ## Consultas de Modificación/Eliminación
 Estas consultas se encuentran en las carpetas /updates o /deletes dentro de la
 carpeta de PostgreSQL o MongoDB.
-● Si se quieren ejecutar las consultas de eliminación de PostgreSQL: posicionarse en
+1. Si se quieren ejecutar las consultas de eliminación de PostgreSQL: posicionarse en
 la carpeta raíz del proyecto y tipear cd postgres/deletes.
-● Si se quieren ejecutar las consultas de modificación de PostgreSQL: posicionarse en
+2. Si se quieren ejecutar las consultas de modificación de PostgreSQL: posicionarse en
 la carpeta raíz del proyecto y tipear cd postgres/updates.
-● Si se quieren ejecutar las consultas de eliminación de MongoDB: posicionarse en la
+3. Si se quieren ejecutar las consultas de eliminación de MongoDB: posicionarse en la
 carpeta raíz del proyecto y tipear cd mongodb/deletes.
-● Si se quieren ejecutar las consultas de eliminación de MongoDB: posicionarse en la
+4. Si se quieren ejecutar las consultas de eliminación de MongoDB: posicionarse en la
 carpeta raíz del proyecto y tipear cd mongodb/updates.
 Allí se encuentran las consultas en código SQL/JS depende del motor. Se deben
 copiar las consultas y ejecutarlas manualmente, ya que no hay script para correrlas porque
 modifican el estado de la base de datos.
 ## Carga Manual
-Ignorar esta sección si se está en Linux y ver​ ​sólo​ ​si​ ​se​ ​opera​ ​desde​ ​Windows.
+Ignorar esta sección si se está en Linux y ver sólo si se opera desde Windows.
 Se debe ingresar a la carpeta raíz y luego dirigirse a /cargamanual. Dentro de esta carpeta
 se encuentra el dump de ambas bases de datos. Importar a PostgreSQL la información de
 la carpeta /cargamanual/postgresql e importar a Mongo la información de
-/cargamanual/mongodb. Recomiendo​ ​fuertemente​ ​correr​ ​el​ ​proyecto​ ​en​ ​Ubuntu​ ​ya​ ​que
-se​ ​construyó​ ​y​ ​testeó​ ​en​ ​este​ ​entorno
+/cargamanual/mongodb. Recomiendo fuertemente correr el proyecto en Ubuntu ya que
+se construyó y testeó en este entorno
